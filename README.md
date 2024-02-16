@@ -4,7 +4,7 @@
 
 # ANALISIS
 
-Variabes de entrada (input)
+Variables de entrada (input)
 
 C: Grados Cenrtigrados
 
