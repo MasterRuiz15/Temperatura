@@ -11,6 +11,7 @@ C: Grados Cenrtigrados
 Variables de proceso y salida (precessing, storage, output)
 
 F: Grado Fahrenheit
+
 K: Grado Kelvin
 
 # DISEÑO
